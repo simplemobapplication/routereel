@@ -1,0 +1,9 @@
+:root { color-scheme: dark; }
+body { margin: 0; background: #0f1115; color: #e8e9ec; font: 17px/1.6 -apple-system, system-ui, Roboto, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+h1 { font-size: 30px; margin: 8px 0 4px; }
+h2 { font-size: 20px; margin: 28px 0 6px; }
+a { color: #ff8a3d; }
+.updated, .back { color: #9aa0aa; font-size: 15px; }
+.home { text-align: center; padding-top: 72px; }
+.home img { border-radius: 22px; }
